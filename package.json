@@ -10,10 +10,10 @@
       "serve": "vite preview"
     },
     "dependencies": {
-      "vue": "^3.2.47"  // Make sure this is the latest stable version
+      "vue": "^3.2.47"  
     },
     "devDependencies": {
-      "vite": "^4.0.0", // Vite is recommended for faster development and deployment
+      "vite": "^4.0.0", 
       "@vitejs/plugin-vue": "^3.0.0"
     },
     "keywords": ["portfolio", "vue", "cyberpunk", "responsive"],
